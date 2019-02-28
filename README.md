@@ -1,3 +1,3 @@
 # compicampus-git-intro
 
-test schange read me
+test change read me
